@@ -86,6 +86,22 @@ Email       : official.pavithram@gmail.com
 <td width="50%" valign="top">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Technical Skills
 
 <div align="center">

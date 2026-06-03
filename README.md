@@ -85,21 +85,6 @@ Email       : official.pavithram@gmail.com
 </td>
 <td width="50%" valign="top">
 
-### 🎯 AI Career Guidance System
-> Recommendation engine delivering personalized career pathways based on user interests, skills, and academic background.
-
-**Key Features:** Personalized recommendations · Skills-to-career mapping · Interest-based filtering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Technical Skills
 
@@ -162,54 +147,9 @@ System Design & Architecture                  ██████░░░░░�
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavithraa2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%"/>
-</div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pavithraa2005/Pavithraa2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-> **Note:** The snake animation requires a GitHub Actions workflow. See setup instructions below.
-
-<details>
-<summary>⚙️ Enable Snake Animation</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 

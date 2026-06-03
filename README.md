@@ -151,14 +151,6 @@ Email       : official.pavithram@gmail.com
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-Artificial Intelligence & Machine Learning    ████████████░░░░  75%
-Cloud Computing (AWS / GCP)                   ████████░░░░░░░░  50%
-Advanced Full-Stack Development               ██████████████░░  85%
-System Design & Architecture                  ██████░░░░░░░░░░  40%
-```
 
 ---
 
@@ -173,7 +165,6 @@ System Design & Architecture                  ██████░░░░░�
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pavithraa2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavithraa2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavithra-m-hq)
-[![Gmail](https://img.shields.io/badge/Gmail-official.pavithram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.pavithram@gmail.com)
 
 </div>
 

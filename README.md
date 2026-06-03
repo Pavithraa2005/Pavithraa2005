@@ -85,22 +85,21 @@ Email       : official.pavithram@gmail.com
 </td>
 <td width="50%" valign="top">
 
+### 🎯 AI Career Guidance System
+> Recommendation engine delivering personalized career pathways based on user interests, skills, and academic background.
 
+**Key Features:** Personalized recommendations · Skills-to-career mapping · Interest-based filtering
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+</td>
+</tr>
+</table>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 🛠️ Technical Skills
 
@@ -166,8 +165,7 @@ System Design & Architecture                  ██████░░░░░�
 
 
 
-
----
+ 
 
 ## 📫 Connect With Me
 

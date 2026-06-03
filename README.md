@@ -1,42 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Pavithra%20M&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=16&descColor=e0deff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavithra%20M&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=e0deff&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+Solutions+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Pavithraa2005?label=Followers&style=flat-square&color=6C63FF&labelColor=1a1a2e)](https://github.com/Pavithraa2005)
-[![GitHub stars](https://img.shields.io/github/stars/Pavithraa2005?label=Stars&style=flat-square&color=6C63FF&labelColor=1a1a2e)](https://github.com/Pavithraa2005)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pavithraa2005&style=flat-square&color=6C63FF&label=Profile+Views)](https://github.com/Pavithraa2005)
+[![GitHub followers](https://img.shields.io/github/followers/Pavithraa2005?label=Followers&style=flat-square&color=6C63FF&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/Pavithraa2005)
+[![GitHub stars](https://img.shields.io/github/stars/Pavithraa2005?label=Stars&style=flat-square&color=6C63FF&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/Pavithraa2005)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pavithraa2005&style=flat-square&color=6C63FF&label=Profile+Views&labelColor=0d1117)](https://github.com/Pavithraa2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](http://www.linkedin.com/in/pavithra-m-hq)
 
 </div>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-Computer Science undergraduate with a focus on **Artificial Intelligence**, **Full-Stack Development**, and **Cloud Computing**. I build end-to-end systems — from intelligent backends to clean user interfaces — with an emphasis on solving problems that matter.
+> *"I believe the best code is the one that helps someone."*
 
-Currently exploring advanced ML architectures and scalable cloud infrastructure while deepening my full-stack foundations.
+Computer Science undergraduate with a passion for **Artificial Intelligence**, **Full-Stack Development**, and **Cloud Computing**. I build end-to-end intelligent systems — from ML backends to polished user interfaces — with a focus on real-world impact.
 
-| | |
-|---|---|
-| **Degree** | B.Tech in Computer Science |
-| **Focus Areas** | AI/ML · Full-Stack · Cloud Computing |
-| **Currently Building** | AI-powered platforms with real-world impact |
-| **GitHub** | [Pavithraa2005](https://github.com/Pavithraa2005) |
+```yaml
+Name        : Pavithra M
+Degree      : B.Tech Computer Science
+Focus       : AI/ML · Full-Stack Development · Cloud Computing
+Status      : Open to collaborations & internships
+Location    : India
+Email       : official.pavithram@gmail.com
+```
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ImpactMatch
-AI-powered volunteer management platform that intelligently connects volunteers with NGOs and communities through ML-based matching algorithms and engagement tracking.
+### 🤝 ImpactMatch
+> AI-powered volunteer management platform connecting volunteers, NGOs, and communities through intelligent matching and engagement.
+
+**Key Features:** ML-based volunteer-NGO matching · Real-time engagement tracking · Community analytics dashboard
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -46,8 +57,10 @@ AI-powered volunteer management platform that intelligently connects volunteers 
 </td>
 <td width="50%" valign="top">
 
-### ERAFTS Emergency Response System
-Smart emergency coordination platform designed to improve real-time response, resource allocation, and inter-agency communication during critical situations.
+### 🚨 ERAFTS Emergency Response System
+> Smart emergency response platform improving coordination and assistance during critical situations.
+
+**Key Features:** Real-time coordination · Resource allocation engine · Multi-agency communication layer
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -59,19 +72,23 @@ Smart emergency coordination platform designed to improve real-time response, re
 <tr>
 <td width="50%" valign="top">
 
-### AI Career Assistant
-Conversational AI chatbot that guides students through career exploration, skill gap analysis, and structured interview preparation using NLP.
+### 🤖 AI Career Assistant
+> Conversational AI chatbot helping students explore career paths, identify skill gaps, and prepare for interviews.
+
+**Key Features:** NLP-powered conversations · Skill gap analysis · Interview prep modules
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### AI Career Guidance System
-Recommendation engine that delivers personalized career pathways by analyzing user interests, academic background, and skill profiles.
+### 🎯 AI Career Guidance System
+> Recommendation engine delivering personalized career pathways based on user interests, skills, and academic background.
+
+**Key Features:** Personalized recommendations · Skills-to-career mapping · Interest-based filtering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square&logoColor=white)
@@ -84,74 +101,138 @@ Recommendation engine that delivers personalized career pathways by analyzing us
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Languages**
+<div align="center">
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database**
-
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**
-
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pavithraa2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavithraa2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pavithraa2005&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pavithraa2005&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithraa2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="100%"/>
 </div>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
 ```text
-Artificial Intelligence & Machine Learning    ████████████░░░░  In Progress
-Cloud Computing (AWS / GCP)                   ████████░░░░░░░░  In Progress
-Advanced Full-Stack Development               ████████████████  Ongoing
+Artificial Intelligence & Machine Learning    ████████████░░░░  75%
+Cloud Computing (AWS / GCP)                   ████████░░░░░░░░  50%
+Advanced Full-Stack Development               ██████████████░░  85%
+System Design & Architecture                  ██████░░░░░░░░░░  40%
 ```
 
 ---
 
-## Connect
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavithraa2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pavithraa2005/Pavithraa2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+> **Note:** The snake animation requires a GitHub Actions workflow. See setup instructions below.
+
+<details>
+<summary>⚙️ Enable Snake Animation</summary>
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pavithraa2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavithraa2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavithra-m-hq)
+[![Gmail](https://img.shields.io/badge/Gmail-official.pavithram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.pavithram@gmail.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+
+*Always eager to learn, build, and contribute to impactful technology solutions.*
+
+**Open to internships · Research collaborations · Open source contributions**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>

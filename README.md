@@ -134,9 +134,11 @@ LinkedIn    : linkedin.com/in/pavithra-m-hq
 
 <div align="center">
 
-[![Pavithraa2005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithraa2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600)](https://github.com/Pavithraa2005)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavithraa2005&theme=tokyonight" width="100%" alt="Profile Summary"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=3600)](https://github.com/Pavithraa2005)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavithraa2005&theme=tokyonight" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavithraa2005&theme=tokyonight" width="32%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pavithraa2005&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
 
 </div>
 

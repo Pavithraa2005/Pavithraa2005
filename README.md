@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Pavithra%20M%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Undergraduate%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=e0deff&animation=fadeIn" width="100%"/>
+
+# Hi, I'm Pavithra M 👋
+
+### Computer Science Undergraduate &nbsp;|&nbsp; AI & Full-Stack Developer
+
 </div>
 
 <div align="center">
@@ -37,8 +41,6 @@ LinkedIn    : linkedin.com/in/pavithra-m-hq
 ---
 
 ## 🚀 Featured Projects
-
-<br/>
 
 ---
 
@@ -132,12 +134,9 @@ LinkedIn    : linkedin.com/in/pavithra-m-hq
 
 <div align="center">
 
-<a href="https://github.com/Pavithraa2005">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pavithraa2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Pavithraa2005">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</a>
+[![Pavithraa2005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavithraa2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600)](https://github.com/Pavithraa2005)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=3600)](https://github.com/Pavithraa2005)
 
 </div>
 
@@ -174,6 +173,8 @@ LinkedIn    : linkedin.com/in/pavithra-m-hq
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <sub>⭐ If you find my work interesting, consider giving a star!</sub>
 </div>
